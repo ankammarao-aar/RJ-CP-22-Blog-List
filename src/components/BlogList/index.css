@@ -1,0 +1,17 @@
+.blog-list-container {
+  list-style-type: none;
+  padding-left: 0px;
+  margin: 0px;
+  width: 74%;
+  padding: 18px;
+}
+
+@media screen and (max-width: 992px) {
+  .blog-list-container {
+    list-style-type: none;
+    padding-left: 0px;
+    margin: 0px;
+    width: 100%;
+    padding: 18px;
+  }
+}

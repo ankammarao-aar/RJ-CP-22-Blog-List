@@ -1,0 +1,29 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.profile-card {
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile {
+  height: 72px;
+}
+
+.profile-heading {
+  color: #12022f;
+  font-size: 14px;
+}
+
+.profile-para {
+  color: #616e7c;
+  font-size: 12px;
+}
